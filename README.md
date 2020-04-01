@@ -13,8 +13,8 @@ A partir de este mes, estoy trabajando para el Banco Santander en la misma área
 
 Dejo una foto mía, es la que uso en el CV y Linkedin.
 
-![IMG_20190213_135024931-min](C:\Users\Usuario\Pictures\IMG_20190213_135024931-min.jpg)
-
-
-
 PD: Gracias a Pablo Pellegrini por recomendar Typora.
+
+![FotoCV](https://user-images.githubusercontent.com/52513676/78101154-02ba5300-73bd-11ea-8c52-998d924f3544.jpg)
+
+
